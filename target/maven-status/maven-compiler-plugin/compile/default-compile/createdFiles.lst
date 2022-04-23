@@ -1,0 +1,6 @@
+br\edu\ifsul\testes\TestePersistirRaca.class
+br\edu\ifsul\pw2022\model\Pet.class
+br\edu\ifsul\testes\TesteAlterarRaca.class
+br\edu\ifsul\testes\TestePersistirPet.class
+br\edu\ifsul\testes\TesteRemoverRaca.class
+br\edu\ifsul\pw2022\model\Raca.class
